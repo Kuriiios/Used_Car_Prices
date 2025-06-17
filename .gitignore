@@ -1,0 +1,12 @@
+venv/
+lightautoml/
+catboost_info/
+ensembling/
+tabularAutoML_model_report/
+
+playground-series-s4e9
+
+Miniforge3-Linux-x86_64.sh
+cufile.log
+
+AutogluonModels
